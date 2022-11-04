@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
  🌱 I’m currently learning .NET Full Stack Development
 - 👯 I’m looking to collaborate on ...
@@ -14,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi790&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abhi790/github-readme-stats)
 
 Covid Tracking Website https://abhi790.github.io/covid_tracking/
