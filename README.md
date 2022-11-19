@@ -10,7 +10,7 @@
 
 - 💼 Associate IT Consultant at ITC Infotech
 
-- ❤️ I currently learning .NET Full Stack Development
+- ❤️ I am currently learning .NET Full Stack Development
 
 
 [![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi790&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abhi790/github-readme-stats)
