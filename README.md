@@ -24,7 +24,7 @@
 
 
 <!-- [![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi790&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abhi790/github-readme-stats) -->
-Covid Tracking Website https://abhi790.github.io/covid_tracking/
-TRACK ISS https://github.com/abhi790/track_iss
+<h1><a href="https://abhi790.github.io/covid_tracking/">Realtime Covid Tracking</a></h1>
+<h1><a href="https://github.com/abhi790/track_iss">Track ISS</a></h1>
 
 
